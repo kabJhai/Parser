@@ -4,7 +4,7 @@ void main(){
     int x = 10;
     int i = 0;
     while(i<x){
-        printf("Life is lame");
+        printf("Life is lamest");
         i++;
     }
 
